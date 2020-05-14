@@ -1,8 +1,17 @@
 # Java-Course
 
 Java level 1
-<br>
-#### [GeekBrains](https://geekbrains.ru/)
+
+# My opinion about a cource
+
+### Minuses:
+* There is no mentor on the course;
+* Grading system (tasks are checked **very slowly**);
+* Submission of material (the teacher often shows the non-optimal structure of the project);
+* Some homework is not relevant to the topic of the lesson;
+
+### Pluses:
+* I liked 2 of 7 tasks, but these was not checked.
 
 # My sertificate
 
